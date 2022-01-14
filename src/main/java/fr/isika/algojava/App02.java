@@ -2,6 +2,9 @@ package fr.isika.algojava;
 
 // MAIN
 // Modif sur la nouvelle branche testing
+/*
+ * Modification issue de Main
+ */
 
 import java.util.Random;
 import java.util.Scanner;
